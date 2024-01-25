@@ -1,4 +1,4 @@
-# Readme
+# Manual on how to use the code
 
 Code for a research project. 
 
@@ -16,4 +16,4 @@ predicts coordinates based on a dataset you will provide a path to
 
 to run: python predictVelocity.py
 
-predicts coordinates based on a dataset that you will provide a path to
+predicts coordinates based on a dataset you will provide a path to
